@@ -1,6 +1,8 @@
 # 开放信息抽取
 
-## 环境配置（python 3.6+）
+## 环境要求和配置
+### 环境要求：python-3.6+, Java-1.8, maven-3.0.4
+### 环境配置：
 1. 克隆该仓库
    ```bash
    git clone https://github.com/Rvlis/Open_Information_Extraction.git
