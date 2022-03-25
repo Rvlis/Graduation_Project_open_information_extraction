@@ -1,0 +1,387 @@
+:START_ID,:END_ID,:TYPE,name
+entity_0,entity_1,has part,1.0
+entity_0,entity_2,developer,1.0
+entity_3,entity_4,said to be the same as,1.0
+entity_5,entity_6,platform,1.0
+entity_5,entity_7,platform,1.0
+entity_5,entity_8,platform,1.0
+entity_9,entity_10,member of,1.0
+entity_9,entity_11,member of,1.0
+entity_9,entity_12,developer,1.0
+entity_13,entity_14,follows,1.0
+entity_13,entity_15,applies to jurisdiction,1.0
+entity_13,entity_16,applies to jurisdiction,1.0
+entity_13,entity_17,main subject,1.0
+entity_18,entity_19,platform,1.0
+entity_18,entity_20,followed by,1.0
+entity_18,entity_21,has part,1.0
+entity_18,entity_22,operating system,1.0
+entity_23,entity_24,has part,1.0
+entity_25,entity_26,followed by,1.0
+entity_27,entity_28,licensed to broadcast to,1.0
+entity_29,entity_30,location of formation,1.0
+entity_31,entity_32,platform,1.0
+entity_33,entity_34,constellation,1.0
+entity_35,entity_36,has part,1.0
+entity_35,entity_37,characters,1.0
+entity_35,entity_38,developer,1.0
+entity_35,entity_39,has part,1.0
+entity_35,entity_40,has part,1.0
+entity_41,entity_42,main subject,1.0
+entity_43,entity_44,followed by,1.0
+entity_43,entity_45,platform,1.0
+entity_46,entity_47,military branch,1.0
+entity_46,entity_48,participant,1.0
+entity_46,entity_47,military branch,1.0
+entity_49,entity_50,developer,1.0
+entity_49,entity_51,residence,1.0
+entity_52,entity_53,developer,1.0
+entity_52,entity_54,has part,1.0
+entity_52,entity_54,has part,1.0
+entity_55,entity_56,main subject,1.0
+entity_55,entity_56,main subject,1.0
+entity_55,entity_57,has part,1.0
+entity_55,entity_57,has part,1.0
+entity_55,entity_56,main subject,1.0
+entity_55,entity_57,has part,1.0
+entity_55,entity_58,main subject,1.0
+entity_59,entity_60,record label,1.0
+entity_59,entity_60,record label,1.0
+entity_59,entity_60,record label,1.0
+entity_61,entity_62,applies to jurisdiction,1.0
+entity_61,entity_63,main subject,1.0
+entity_64,entity_65,developer,1.0
+entity_66,entity_30,location of formation,1.0
+entity_66,entity_67,has part,1.0
+entity_66,entity_67,has part,1.0
+entity_68,entity_69,located on terrain feature,1.0
+entity_68,entity_69,located on terrain feature,1.0
+entity_68,entity_69,located on terrain feature,1.0
+entity_68,entity_69,located on terrain feature,1.0
+entity_70,entity_71,developer,1.0
+entity_70,entity_71,developer,1.0
+entity_72,entity_73,followed by,1.0
+entity_72,entity_73,followed by,1.0
+entity_74,entity_75,developer,1.0
+entity_76,entity_77,has part,1.0
+entity_76,entity_77,has part,1.0
+entity_76,entity_77,has part,1.0
+entity_76,entity_77,has part,1.0
+entity_76,entity_77,has part,1.0
+entity_78,entity_79,follows,1.0
+entity_78,entity_80,composer,1.0
+entity_78,entity_80,composer,1.0
+entity_81,entity_82,main subject,1.0
+entity_81,entity_82,main subject,1.0
+entity_83,entity_84,has part,1.0
+entity_85,entity_86,contains administrative territorial entity,1.0
+entity_85,entity_86,contains administrative territorial entity,1.0
+entity_85,entity_53,followed by,1.0
+entity_85,entity_53,followed by,1.0
+entity_87,entity_88,participating team,1.0
+entity_87,entity_89,location,1.0
+entity_90,entity_91,follows,1.0
+entity_90,entity_92,military branch,1.0
+entity_90,entity_92,military branch,1.0
+entity_93,entity_94,has part,1.0
+entity_93,entity_95,operating system,1.0
+entity_96,entity_97,platform,1.0
+entity_98,entity_99,followed by,1.0
+entity_100,entity_101,has part,1.0
+entity_102,entity_103,has part,1.0
+entity_104,entity_105,residence,1.0
+entity_106,entity_107,successful candidate,1.0
+entity_108,entity_103,has part,1.0
+entity_109,entity_110,participating team,1.0
+entity_111,entity_112,main subject,1.0
+entity_111,entity_113,main subject,1.0
+entity_114,entity_115,has part,1.0
+entity_114,entity_116,follows,1.0
+entity_117,entity_118,winner,1.0
+entity_119,entity_120,location of formation,1.0
+entity_119,entity_121,operator,1.0
+entity_119,entity_122,has part,1.0
+entity_123,entity_124,platform,1.0
+entity_123,entity_124,platform,1.0
+entity_125,entity_126,follows,1.0
+entity_127,entity_128,platform,1.0
+entity_129,entity_130,location of formation,1.0
+entity_131,entity_132,has part,1.0
+entity_131,entity_132,has part,1.0
+entity_131,entity_133,developer,1.0
+entity_131,entity_134,developer,1.0
+entity_135,entity_136,developer,1.0
+entity_135,entity_137,developer,1.0
+entity_135,entity_138,developer,1.0
+entity_139,entity_140,followed by,1.0
+entity_139,entity_141,followed by,1.0
+entity_142,entity_143,performer,1.0
+entity_142,entity_144,record label,1.0
+entity_145,entity_146,developer,1.0
+entity_145,entity_147,developer,1.0
+entity_148,entity_149,military branch,1.0
+entity_150,entity_151,has part,1.0
+entity_152,entity_153,follows,1.0
+entity_154,entity_155,has part,1.0
+entity_154,entity_156,platform,1.0
+entity_157,entity_158,developer,1.0
+entity_159,entity_160,platform,1.0
+entity_159,entity_161,characters,1.0
+entity_159,entity_161,characters,1.0
+entity_162,entity_163,applies to jurisdiction,1.0
+entity_162,entity_164,main subject,1.0
+entity_162,entity_165,main subject,1.0
+entity_162,entity_166,main subject,1.0
+entity_162,entity_167,main subject,1.0
+entity_162,entity_168,main subject,1.0
+entity_162,entity_168,main subject,1.0
+entity_169,entity_170,performer,1.0
+entity_171,entity_172,developer,1.0
+entity_171,entity_172,developer,1.0
+entity_171,entity_173,developer,1.0
+entity_171,entity_173,developer,1.0
+entity_174,entity_175,developer,1.0
+entity_176,entity_177,platform,1.0
+entity_178,entity_179,developer,1.0
+entity_180,entity_181,operating system,1.0
+entity_182,entity_183,follows,1.0
+entity_184,entity_185,developer,1.0
+entity_186,entity_187,has part,1.0
+entity_188,entity_189,developer,1.0
+entity_190,entity_191,platform,1.0
+entity_190,entity_192,developer,1.0
+entity_193,entity_194,operating system,1.0
+entity_193,entity_195,follows,1.0
+entity_196,entity_197,participant,1.0
+entity_198,entity_199,developer,1.0
+entity_198,entity_200,developer,1.0
+entity_201,entity_202,platform,1.0
+entity_203,entity_204,operating system,1.0
+entity_205,entity_206,owned by,1.0
+entity_207,entity_208,followed by,1.0
+entity_209,entity_210,follows,1.0
+entity_209,entity_211,follows,1.0
+entity_209,entity_211,follows,1.0
+entity_212,entity_213,operating system,1.0
+entity_212,entity_213,operating system,1.0
+entity_214,entity_215,developer,1.0
+entity_216,entity_217,followed by,1.0
+entity_216,entity_217,followed by,1.0
+entity_216,entity_218,follows,1.0
+entity_219,entity_220,owned by,1.0
+entity_221,entity_222,platform,1.0
+entity_221,entity_223,platform,1.0
+entity_224,entity_1,developer,1.0
+entity_225,entity_226,developer,1.0
+entity_225,entity_227,has part,1.0
+entity_228,entity_229,developer,1.0
+entity_228,entity_230,main subject,1.0
+entity_231,entity_232,platform,1.0
+entity_231,entity_233,platform,1.0
+entity_234,entity_235,developer,1.0
+entity_234,entity_235,developer,1.0
+entity_236,entity_237,platform,1.0
+entity_236,entity_237,platform,1.0
+entity_238,entity_239,has part,1.0
+entity_238,entity_239,has part,1.0
+entity_238,entity_239,has part,1.0
+entity_238,entity_240,platform,1.0
+entity_241,entity_67,has part,1.0
+entity_242,entity_243,developer,1.0
+entity_244,entity_245,follows,1.0
+entity_246,entity_247,developer,1.0
+entity_248,entity_249,platform,1.0
+entity_250,entity_251,developer,1.0
+entity_250,entity_251,developer,1.0
+entity_250,entity_251,developer,1.0
+entity_250,entity_251,developer,1.0
+entity_250,entity_251,developer,1.0
+entity_250,entity_251,developer,1.0
+entity_252,entity_237,developer,1.0
+entity_253,entity_254,instance of,1.0
+entity_253,entity_237,platform,1.0
+entity_255,entity_256,notable work,1.0
+entity_257,entity_258,followed by,1.0
+entity_257,entity_258,followed by,1.0
+entity_259,entity_260,platform,1.0
+entity_259,entity_261,developer,1.0
+entity_259,entity_262,developer,1.0
+entity_263,entity_116,follows,1.0
+entity_264,entity_265,location,1.0
+entity_264,entity_265,location,1.0
+entity_264,entity_265,location,1.0
+entity_264,entity_266,part of,1.0
+entity_264,entity_266,part of,1.0
+entity_264,entity_265,location,1.0
+entity_267,entity_268,said to be the same as,1.0
+entity_267,entity_269,has part,1.0
+entity_270,entity_271,follows,1.0
+entity_270,entity_271,follows,1.0
+entity_272,entity_273,has part,1.0
+entity_274,entity_275,developer,1.0
+entity_274,entity_276,developer,1.0
+entity_277,entity_278,developer,1.0
+entity_279,entity_280,licensed to broadcast to,1.0
+entity_279,entity_280,licensed to broadcast to,1.0
+entity_281,entity_282,follows,1.0
+entity_283,entity_284,main subject,1.0
+entity_283,entity_285,part of,1.0
+entity_286,entity_287,platform,1.0
+entity_288,entity_289,has part,1.0
+entity_290,entity_291,platform,1.0
+entity_292,entity_293,has part,1.0
+entity_292,entity_294,followed by,1.0
+entity_295,entity_296,follows,1.0
+entity_297,entity_298,developer,1.0
+entity_297,entity_298,developer,1.0
+entity_297,entity_299,followed by,1.0
+entity_300,entity_301,developer,1.0
+entity_300,entity_302,developer,1.0
+entity_303,entity_304,applies to jurisdiction,1.0
+entity_305,entity_306,developer,1.0
+entity_307,entity_308,has part,1.0
+entity_307,entity_309,followed by,1.0
+entity_310,entity_311,has part,1.0
+entity_310,entity_311,has part,1.0
+entity_312,entity_112,follows,1.0
+entity_313,entity_314,developer,1.0
+entity_313,entity_315,developer,1.0
+entity_316,entity_317,has part,1.0
+entity_318,entity_1,has part,1.0
+entity_319,entity_320,sibling,1.0
+entity_321,entity_322,followed by,1.0
+entity_321,entity_323,has part,1.0
+entity_324,entity_325,followed by,1.0
+entity_326,entity_327,platform,1.0
+entity_326,entity_327,platform,1.0
+entity_328,entity_329,owned by,1.0
+entity_330,entity_331,followed by,1.0
+entity_332,entity_333,followed by,1.0
+entity_334,entity_335,platform,1.0
+entity_336,entity_337,sibling,1.0
+entity_338,entity_339,has part,1.0
+entity_338,entity_339,has part,1.0
+entity_338,entity_340,has part,1.0
+entity_341,entity_342,headquarters location,1.0
+entity_343,entity_344,subsidiary,1.0
+entity_343,entity_345,subsidiary,1.0
+entity_346,entity_347,publisher,1.0
+entity_348,entity_349,developer,1.0
+entity_350,entity_351,operating system,1.0
+entity_350,entity_352,developer,1.0
+entity_353,entity_354,league,1.0
+entity_355,entity_356,has part,1.0
+entity_355,entity_357,operating system,1.0
+entity_355,entity_358,follows,1.0
+entity_359,entity_360,followed by,1.0
+entity_361,entity_362,headquarters location,1.0
+entity_361,entity_362,headquarters location,1.0
+entity_361,entity_363,located in the administrative territorial entity,1.0
+entity_361,entity_364,has part,1.0
+entity_365,entity_366,headquarters location,1.0
+entity_367,entity_368,record label,1.0
+entity_369,entity_370,follows,1.0
+entity_369,entity_370,follows,1.0
+entity_371,entity_372,followed by,1.0
+entity_371,entity_373,has part,1.0
+entity_374,entity_375,performer,1.0
+entity_374,entity_376,participant,1.0
+entity_374,entity_376,participant,1.0
+entity_374,entity_376,participant,1.0
+entity_374,entity_376,participant,1.0
+entity_377,entity_378,owned by,1.0
+entity_377,entity_379,developer,1.0
+entity_380,entity_381,has part,1.0
+entity_380,entity_382,platform,1.0
+entity_380,entity_383,platform,1.0
+entity_384,entity_385,has part,1.0
+entity_386,entity_387,location,1.0
+entity_388,entity_389,followed by,1.0
+entity_390,entity_391,followed by,1.0
+entity_392,entity_393,follows,1.0
+entity_392,entity_394,follows,1.0
+entity_392,entity_394,follows,1.0
+entity_395,entity_396,developer,1.0
+entity_395,entity_397,has part,1.0
+entity_395,entity_398,characters,1.0
+entity_395,entity_399,has part,1.0
+entity_400,entity_401,has part,1.0
+entity_400,entity_402,platform,1.0
+entity_403,entity_404,has part,1.0
+entity_403,entity_405,followed by,1.0
+entity_406,entity_407,manufacturer,1.0
+entity_408,entity_409,followed by,1.0
+entity_410,entity_411,child,1.0
+entity_410,entity_412,spouse,1.0
+entity_410,entity_413,participant of,1.0
+entity_410,entity_413,participant of,1.0
+entity_414,entity_415,has part,1.0
+entity_414,entity_415,has part,1.0
+entity_416,entity_417,follows,1.0
+entity_418,entity_419,followed by,1.0
+entity_418,entity_420,platform,1.0
+entity_418,entity_420,platform,1.0
+entity_421,entity_422,developer,1.0
+entity_423,entity_424,operating system,1.0
+entity_423,entity_424,operating system,1.0
+entity_425,entity_426,developer,1.0
+entity_427,entity_428,operating system,1.0
+entity_427,entity_429,publisher,1.0
+entity_427,entity_430,follows,1.0
+entity_427,entity_431,head of government,1.0
+entity_432,entity_433,main subject,1.0
+entity_434,entity_435,follows,1.0
+entity_434,entity_435,follows,1.0
+entity_436,entity_437,part of,1.0
+entity_436,entity_438,has part,1.0
+entity_439,entity_440,platform,1.0
+entity_441,entity_442,owned by,1.0
+entity_443,entity_444,developer,1.0
+entity_445,entity_446,operating system,1.0
+entity_445,entity_447,publisher,1.0
+entity_448,entity_449,successful candidate,1.0
+entity_448,entity_450,followed by,1.0
+entity_451,entity_452,applies to jurisdiction,1.0
+entity_453,entity_454,platform,1.0
+entity_455,entity_456,owned by,1.0
+entity_457,entity_458,operating system,1.0
+entity_459,entity_460,platform,1.0
+entity_459,entity_460,platform,1.0
+entity_461,entity_462,developer,1.0
+entity_463,entity_464,developer,1.0
+entity_463,entity_465,developer,1.0
+entity_463,entity_465,developer,1.0
+entity_463,entity_465,developer,1.0
+entity_466,entity_467,platform,1.0
+entity_466,entity_467,platform,1.0
+entity_468,entity_404,developer,1.0
+entity_468,entity_469,platform,1.0
+entity_470,entity_298,publisher,1.0
+entity_470,entity_419,subsidiary,1.0
+entity_470,entity_419,subsidiary,1.0
+entity_471,entity_472,operating system,1.0
+entity_473,entity_474,has part,1.0
+entity_473,entity_474,has part,1.0
+entity_475,entity_476,developer,1.0
+entity_477,entity_478,main subject,1.0
+entity_477,entity_479,developer,1.0
+entity_477,entity_480,developer,1.0
+entity_477,entity_479,developer,1.0
+entity_481,entity_482,follows,1.0
+entity_481,entity_483,follows,1.0
+entity_481,entity_484,operating system,1.0
+entity_485,entity_486,followed by,1.0
+entity_485,entity_486,followed by,1.0
+entity_485,entity_486,followed by,1.0
+entity_487,entity_488,main subject,1.0
+entity_489,entity_490,developer,1.0
+entity_491,entity_492,developer,1.0
+entity_493,entity_494,developer,1.0
+entity_495,entity_298,publisher,1.0
+entity_495,entity_298,publisher,1.0
+entity_496,entity_497,subsidiary,1.0
+entity_496,entity_498,subsidiary,1.0
+entity_499,entity_500,main subject,1.0
+entity_501,entity_502,platform,1.0
+entity_501,entity_503,platform,1.0
+entity_501,entity_503,platform,1.0
