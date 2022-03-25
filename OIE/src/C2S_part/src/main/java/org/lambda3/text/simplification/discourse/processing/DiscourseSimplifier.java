@@ -133,12 +133,12 @@ public class DiscourseSimplifier {
     // creates discourse trees for each individual sentence (investigates intra-sentential relations only)
     private SimplificationContent processSeparate(List<String> sentences) {
         SimplificationContent content = new SimplificationContent();
-
+        logger.info("-------------------- Simplifying Sentences --------------------");
         int idx = 0;
         for (String sentence : sentences) {
             OutSentence outSentence = new OutSentence(idx, sentence);
 
-            logger.info("################# Simplifying Sentence {}/{} --------------------", (idx + 1), sentences.size());
+            // logger.info("-------------------- Simplifying Sentence {}/{} --------------------", (idx + 1), sentences.size());
             // logger.info("'" + sentence + "'");
             // logger.info(sentence);
 
