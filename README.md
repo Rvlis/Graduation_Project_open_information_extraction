@@ -2,9 +2,9 @@
 
 ## 环境配置
 1. 克隆该仓库
-   ```
-   git clone https://github.com/Rvlis/Graduation_Project_open_information_extraction.git
-   cd Graduation_Project_open_information_extraction
+   ```bash
+   git clone https://github.com/Rvlis/Open_Information_Extraction.git
+   cd Open_Information_Extraction
    ```
 
 2. 安装包 `pip install -r requirements.txt`
@@ -18,12 +18,12 @@
 
 4. 安装 __Stanford CoreNLP__
    ```bash
-   cd Graduation_Project_open_information_extraction
+   cd Open_Information_Extraction
    python
    ```
    ```python
    import stanza
-   stanza.install_corenlp("路径值（绝对路径，建议放在Graduation_Project_open_information_extraction目录下）")
+   stanza.install_corenlp("路径值（绝对路径，建议放在Open_Information_Extraction目录下）")
    ```
 
 5. 添加环境变量
@@ -42,7 +42,7 @@
 
 7. 安装Spacy预训练模型，下载[该链接](https://github.com/explosion/spacy-models/releases/tag/en_core_web_md-2.3.1)下的 `.tar.gz`文件并安装
    ```bash
-   cd Graduation_Project_open_information_extraction
+   cd Open_Information_Extraction
    pip install en_core_web_md-2.3.1.tar.gz
    ```
 
