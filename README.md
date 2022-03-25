@@ -1,6 +1,6 @@
 # 开放信息抽取
 
-## 环境配置
+## 环境配置（python 3.6+）
 1. 克隆该仓库
    ```bash
    git clone https://github.com/Rvlis/Open_Information_Extraction.git
