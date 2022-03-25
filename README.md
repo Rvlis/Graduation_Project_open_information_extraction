@@ -46,6 +46,15 @@
    pip install en_core_web_md-2.3.1.tar.gz
    ```
 
+8. 运行demo，对单句进行关系三元组抽取
+   ```python
+   cd OIE/src
+   python run.py
+
+   >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; is based in; Los Angeles)
+   >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; "is" ; a telecommunication company)
+   ```
+
 ## 复合句简化
 
 ## 实体抽取
