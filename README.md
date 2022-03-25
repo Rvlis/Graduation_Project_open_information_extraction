@@ -23,7 +23,7 @@
    ```
    ```python
    import stanza
-   stanza.install_corenlp("路径值（绝对路径，建议放在Open_Information_Extraction目录下）")
+   stanza.install_corenlp("路径值，绝对路径，建议放在Open_Information_Extraction目录下")
    ```
 
 5. 添加环境变量
