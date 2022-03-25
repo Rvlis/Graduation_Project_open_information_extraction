@@ -51,7 +51,7 @@
    cd OIE/src
    python run.py
    ```
-   得到以下输出结构
+   得到以下输出结果
    ```python
    >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; is based in; Los Angeles)
    >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; "is" ; a telecommunication company)
