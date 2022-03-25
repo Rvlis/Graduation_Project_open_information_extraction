@@ -46,11 +46,13 @@
    pip install en_core_web_md-2.3.1.tar.gz
    ```
 
-8. 运行demo，对单句进行关系三元组抽取
+8. 环境配置完成后，运行demo，对单句进行关系三元组抽取
    ```python
    cd OIE/src
    python run.py
-
+   ```
+   得到以下输出结构
+   ```python
    >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; is based in; Los Angeles)
    >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; "is" ; a telecommunication company)
    ```
