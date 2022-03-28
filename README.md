@@ -71,7 +71,14 @@ __[OIE/src/C2S_part/](./OIE/src/C2S_part/)__: C2S(Complex To Simple)，复合句
 ## 实体抽取
 ### 要求：
 ### 参考代码：
-`OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py`
+__[OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py](./OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py)__
+1. 基于规则的显式短语识别
+   这一步中显式短语的识别方法是通过 __建立关于词性标注（POS tagging，part-of-speech tagging）的正则表达式__ (19~59)
+   <div align="center">
+      <img src="./img/基于规则的显示短语识别.jpg" width = "80%" alt="添加环境变量" align=center />
+   </div>
+2. 基于深度学习的显式短语识别
+3. 隐式短语扩展
 
 ## 关系抽取
 
