@@ -70,6 +70,9 @@ __[OIE/src/C2S_part/](./OIE/src/C2S_part/)__: C2S(Complex To Simple)，复合句
 
 ## 实体抽取
 ### 要求：
+是实验内容的核心部分，要求熟悉掌握该阶段原理和实现，对于该阶段所设计到的相关知识（包括Tokenize、词性标注POS、依存解析等，以及使用代码过程中遇到的障碍）都要做到熟练掌握
+### 参考文献：
+[开放信息抽取相关知识介绍](./paper/开放信息抽取相关知识介绍.docx)
 ### 参考代码：
 __[OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py](./OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py)__
 1. 基于规则的显式短语识别
