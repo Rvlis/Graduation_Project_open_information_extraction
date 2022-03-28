@@ -73,14 +73,25 @@ __[OIE/src/C2S_part/](./OIE/src/C2S_part/)__: C2S(Complex To Simple)，复合句
 ### 参考代码：
 __[OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py](./OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py)__
 1. 基于规则的显式短语识别
-   这一步中显式短语的识别方法是通过 __建立关于词性标注（POS tagging，part-of-speech tagging）的正则表达式__ (正则表达式代码：19~59)
+   
+   - 这一步中显式短语的识别方法是通过 __建立关于词性标注（POS tagging，part-of-speech tagging）的正则表达式__
 
+   - 正则表达式代码：19~59
    <div align="center">
       <img src="./img/基于规则的显示短语识别.jpg" width = "80%" alt="添加环境变量" align=center />
    </div>
 
+   - 匹配代码：226~278
+
 2. 基于深度学习的显式短语识别
-3. 隐式短语扩展
+   
+   - 这一步中显式短语的识别方法是 __使用自然语言处理工具（例如 Spacy）进行命名实体识别__, 识别出的实体也归类为“显式实体”
+   - 匹配代码：283~338
+
+3. 隐式短语扩展（两种扩展规则）
+
+   - 识别名词短语中形容词修饰语的第一规则：70~120
+   - 识别名词短语中核心名词的第二规则：122~151
 
 ## 关系抽取
 
