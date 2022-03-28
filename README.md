@@ -61,6 +61,9 @@
    ```
 
 ## 复合句简化
+### 参考文献：
+[Context-Preserving Text Simplification](./paper/Context-Preserving-Text-Simplification.pdf)
+
 
 ## 实体抽取
 
