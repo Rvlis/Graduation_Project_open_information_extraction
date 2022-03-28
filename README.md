@@ -61,11 +61,17 @@
    ```
 
 ## 复合句简化
+### 要求：
+阅读以下参考文献或任何其他参考资料，了解复合句简化阶段的原理，毕设答辩时能应对老师的提问即可
 ### 参考文献：
 [Context-Preserving Text Simplification](./paper/Context-Preserving-Text-Simplification.pdf)
-
+### 参考代码：
+`OIE/src/C2S_part/`: C2S(Complex To Simple)，复合句简化，基于stanford corenlp工具实现，所以为java代码 
 
 ## 实体抽取
+### 要求：
+### 参考代码：
+`OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py`
 
 ## 关系抽取
 
