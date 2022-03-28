@@ -66,7 +66,7 @@
 ### 参考文献：
 [Context-Preserving Text Simplification](./paper/Context-Preserving-Text-Simplification.pdf)
 ### 参考代码：
-`OIE/src/C2S_part/`: C2S(Complex To Simple)，复合句简化，基于stanford corenlp工具实现，所以为java代码 
+`[OIE/src/C2S_part/](./OIE/src/C2S_part/)`: C2S(Complex To Simple)，复合句简化，基于stanford corenlp工具实现，所以为java代码 
 
 ## 实体抽取
 ### 要求：
