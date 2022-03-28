@@ -88,6 +88,7 @@ __[OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py](./OIE/src/NER_
       <img src="./img/基于规则的显示短语识别.jpg" width = "80%" alt="添加环境变量" align=center />
    </div>
 
+
    - 匹配代码：226-278
 
 2. 基于深度学习的显式短语识别
