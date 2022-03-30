@@ -62,7 +62,7 @@
 
 ## 复合句简化
 ### 要求：
-阅读以下参考文献或任何其他参考资料，了解复合句简化阶段的原理，毕设答辩时能应对老师的提问即可
+阅读以下参考文献或任何其他参考资料，了解本实验中复合句简化的原理
 ### 参考文献：
 [Context-Preserving Text Simplification](./paper/Context-Preserving-Text-Simplification.pdf)
 ### 参考代码：
