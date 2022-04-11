@@ -60,7 +60,7 @@
    >>> Bell, a telecommunication company, which is based in Los Angeles --> (Bell; "is" ; a telecommunication company)
    ```
 
-## 复合句简化
+## 复合句简化✔
 ### 要求：
 阅读以下参考文献或任何其他参考资料，了解本实验中复合句简化的原理
 ### 参考文献：
@@ -68,7 +68,7 @@
 ### 参考代码：
 __[OIE/src/C2S_part/](./OIE/src/C2S_part/)__: C2S(Complex To Simple)，复合句简化，基于stanford corenlp工具实现 
 
-## 实体抽取
+## 实体抽取✔
 
 ### 要求：
 实验内容的核心部分，要求 __熟练掌握__ 该阶段原理和实现，对于该阶段所设计到的相关知识（包括Tokenize、词性标注POS、依存解析等，以及使用代码过程中遇到的障碍）都要做到熟练掌握
@@ -101,7 +101,7 @@ __[OIE/src/NER_part/corenlp_chunk_candidate_relations_triples.py](./OIE/src/NER_
    - __识别名词短语中形容词修饰语的第一规则__：70-120
    - __识别名词短语中核心名词的第二规则__：122-151
 
-## 关系抽取
+## 关系抽取✔
 
 ### 要求：
 同上
