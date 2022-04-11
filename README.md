@@ -122,3 +122,19 @@ __[OIE/src/NER_part/scenarios.py](./OIE/src/NER_part/scenarios.py)__
    - __同位语关系__: Scenario-6 (218-265)
 
 ## 性能评估
+
+1. 下载评测数据集[CaRB](https://github.com/Rvlis/CaRB)到Open_Information_Extraction路径下
+   ```bash
+   cd Open_Information_Extraction
+   git clone https://github.com/Rvlis/CaRB.git
+   ```
+
+2. 规范本OIE工具的输入格式以满足评测数据集的要求——Tab seperated, 具体格式为[sentence   probability   predicate   arg1   arg2]， 具体流程为：
+   - 批量处理输入句子，参考代码[OIE/src/run.py 批量抽取部分](./OIE/src/run.py)
+   - 格式化输出，参考代码[OIE/src/run.py 性能评估部分](./OIE/src/run.py)
+
+3. 性能评估
+   ```python
+   cd CaRB
+   python carb.py --gold=data/gold/dev.tsv --out=dump/OIE.dat --tabbed ../OIE/data/CaRB_output.txt
+   ```
