@@ -148,7 +148,7 @@ __[OIE/src/NER_part/scenarios.py](./OIE/src/NER_part/scenarios.py)__
 
 4. 性能评估
    ```python
-   cd CaRB
+   cd ../../CaRB
    python carb.py --gold=data/gold/dev.tsv --out=dump/OIE.dat --tabbed ../OIE/data/CaRB_output_dev.txt
    ```
 
