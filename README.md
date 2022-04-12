@@ -149,7 +149,7 @@ __[OIE/src/NER_part/scenarios.py](./OIE/src/NER_part/scenarios.py)__
    python carb.py --gold=data/gold/dev.tsv --out=dump/OIE.dat --tabbed ../OIE/data/CaRB_output_dev.txt
    ```
 
-5. (待做)除直接的性能评估外，后续还可能进行消融实验（比如w/o共指消解、w/o复合句简化）来补充实验部分内容
+5. ___(待做)___ 除直接的性能评估外，后续还可能进行消融实验（比如w/o共指消解、w/o复合句简化）来补充实验部分内容
    - w/o共指消解
    ```python
    cd OIE/src
