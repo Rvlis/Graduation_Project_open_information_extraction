@@ -123,18 +123,45 @@ __[OIE/src/NER_part/scenarios.py](./OIE/src/NER_part/scenarios.py)__
 
 ## 性能评估
 
-1. 下载评测数据集[CaRB](https://github.com/Rvlis/CaRB)到Open_Information_Extraction路径下
+1. 在 __Open_Information_Extraction__ 路径下载开源评测工具[CaRB](https://github.com/Rvlis/CaRB)：包括数据集+评测工具
    ```bash
    cd Open_Information_Extraction
    git clone https://github.com/Rvlis/CaRB.git
    ```
+   或者点击[此链接](https://github.com/Rvlis/CaRB)下载该仓库后解压到 __Open_Information_Extraction__ 路径下，解压后文件夹名为 __CaRB__
 
-2. 规范本OIE工具的输入格式以满足评测数据集的要求——Tab seperated, 具体格式为[sentence   probability   predicate   arg1   arg2]， 具体流程为：
+2. 安装运行CaRB所需要的包
+   ```bash
+   pip install -r ./CaRB/requirements.txt
+   ```
+
+3. 规范本OIE工具的输入格式以满足CaRB要求——Tab seperated, 具体格式为[sentence   probability   predicate   arg1   arg2]， 具体流程为：
    - 批量处理输入句子，参考代码[OIE/src/run.py 批量抽取部分](./OIE/src/run.py)
    - 格式化输出，参考代码[OIE/src/run.py 性能评估部分](./OIE/src/run.py)
+   ```python
+   cd OIE/src
+   python .\run.py --type 1
+   ```
 
-3. 性能评估
+4. 性能评估
    ```python
    cd CaRB
-   python carb.py --gold=data/gold/dev.tsv --out=dump/OIE.dat --tabbed ../OIE/data/CaRB_output.txt
+   python carb.py --gold=data/gold/dev.tsv --out=dump/OIE.dat --tabbed ../OIE/data/CaRB_output_dev.txt
+   ```
+
+5. (待做)除直接的性能评估外，后续还可能进行消融实验（比如w/o共指消解、w/o复合句简化）来补充实验部分内容
+   - w/o共指消解
+   ```python
+   cd OIE/src
+   python run.py --type 1 --coref 0
+   cd ../../CaRB
+   python carb.py --gold=data/gold/dev.tsv --out=dump/OIE-wo-coref.dat --tabbed ..\OIE\data\CaRB_output_dev_wo_coref.txt
+   ```
+
+   - w/o复合句简化
+   ```python
+   cd OIE/src
+   python run.py --type 1 --simp 0 
+   cd ../../CaRB
+   python carb.py --gold=data/gold/dev.tsv --out=dump/OIE-wo-simp.dat --tabbed ..\OIE\data\CaRB_output_dev_wo_simp.txt
    ```
