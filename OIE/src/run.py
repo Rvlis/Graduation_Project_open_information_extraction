@@ -83,6 +83,7 @@ if __name__ == "__main__":
             tmp_triple.insert(0, triple[1].strip())
 
             # 因为本方法没有设置置信度，此处设置为定值1.0即可，不影响评估效果
+            # 带来的影响是：无法绘制不同置信度条件下的AUC曲线
             tmp_triple.insert(1, "1.0")
             tmp_triple.insert(2, triple[2].strip())
             tmp_triple.insert(3, triple[3].strip())
