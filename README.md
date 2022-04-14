@@ -123,6 +123,11 @@ __[OIE/src/NER_part/scenarios.py](./OIE/src/NER_part/scenarios.py)__
 
 ## 性能评估
 
+### 要求：
+- 了解使用的评测工具，包括数据集，标注方法，评判规则等，不需要熟悉掌握实现细节
+- [参考链接](https://github.com/Rvlis/CaRB)
+- [参考文献](./paper/CaRB%20A%20Crowdsourced%20Benchmark%20for%20Open%20IE.pdf)
+  
 1. 在 __Open_Information_Extraction__ 路径下载开源评测工具[CaRB](https://github.com/Rvlis/CaRB)：包括数据集+评测工具
    - 对评测工具作了解即可，理解其评测原理和数据集中数据来源、标注方法等
    - 参考文献 [CaRB: A Crowdsourced Benchmark for Open IE](./paper/CaRB%20A%20Crowdsourced%20Benchmark%20for%20Open%20IE.pdf)
